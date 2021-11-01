@@ -1,0 +1,2 @@
+elencoUno = [casa,pappa,scuola,coding,python]
+lista = elencoUno
