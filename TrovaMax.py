@@ -1,6 +1,6 @@
-a = input("Inserisici primo valore: ")
-b = input("Inserisici secondo valore: ")
-c = input("Inserisici terzo valore: ")
+a = input("Inserisci primo valore: ")
+b = input("Inserisci secondo valore: ")
+c = input("Inserisci terzo valore: ")
 m = a
 if b > m: m = b
 if c > m: m = c
