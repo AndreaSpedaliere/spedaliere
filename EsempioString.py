@@ -1,3 +1,3 @@
 Nome="Andrea"
 Cognome="Spedaliere"
-print Nome + " " + Cognome
+print (Nome + " " + Cognome)
