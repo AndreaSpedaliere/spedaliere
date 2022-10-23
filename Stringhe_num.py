@@ -1,0 +1,10 @@
+n = input("Inserisci stringa numero decimale: ")
+n_dec=int(n)
+n_hex=hex(n_dec)
+n_ott=oct(n_dec)
+n_bin=bin(n_dec)
+
+print ("Valore decimale: " + str(n_dec))
+print ("Valore esadecimale: " + str(n_hex))
+print ("Valore ottale: " + str(n_ott))
+print ("Valore binario: " + str(n_bin))
